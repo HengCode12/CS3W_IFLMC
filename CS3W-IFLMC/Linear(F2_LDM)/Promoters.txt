@@ -1,0 +1,11 @@
+The average training time is: 0.0370.
+The average predicting accurate is: 84.62%.
+The std predicting accurate is: 0.00.
+The Margin MEAN is: 9.97e-01.
+The Margin VARIANCE is: 3.47e-01.
+The Best_lambda1 is: 
+0.003906
+The Best_lambda2 is: 
+0.003906
+The Best_C is: 
+10.000000

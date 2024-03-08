@@ -1,0 +1,31 @@
+The average cost of CS2WD is: 1127.6667.
+The average cost of CI2WD is: 1125.3333.
+The average cost of CS3WD is: 1135.3333.
+The average accuracy of CS2WD is: 0.8086.
+The average accuracy of CI2WD is: 0.8601.
+The average accuracy of CS3WD is: 0.8853.
+The average precision of CS2WD is: 0.8924.
+The average precision of CI2WD is: 0.8654.
+The average precision of CS3WD is: 0.8938.
+The average recall of CS2WD is: 0.8040.
+The average recall of CI2WD is: 0.9308.
+The average recall of CS3WD is: 0.9881.
+The average F1 of CS2WD is: 0.8459.
+The average F1 of CI2WD is: 0.8969.
+The average F1 of CS3WD is: 0.9386.
+The detail of CS2WD is: 250.0134.063.032.0.
+The detail of CI3WD is: 293.0119.020.047.0.
+The detail of CS3WD is: 194.0285.0248.03.03.031.0.
+The average training time is: 0.2184.
+The average predicting accurate is: 82.53%.
+The std predicting accurate is: 1.69.
+The Margin MEAN is: 7.44e-01.
+The Margin VARIANCE is: 4.66e-01.
+The Best_lambda1 is: 
+0.003906
+The Best_lambda2 is: 
+0.003906
+The Best_C is: 
+500.000000
+The Best_gamma is: 
+0.812586
